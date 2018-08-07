@@ -1,0 +1,594 @@
+{
+    "tv.101305060562": {
+        "channel": "101305060562",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305060562.png",
+        "cache_id": "9183847",
+        "name": "7TWO",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101305060562/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101305060562.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060562.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101305060565": {
+        "channel": "101305060565",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305060565.png",
+        "cache_id": "8968230",
+        "name": "7flix",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101305060565/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101305060565.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060565.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101305060563": {
+        "channel": "101305060563",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305060563.png",
+        "cache_id": "9301237",
+        "name": "7mate",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101305060563/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101305060563.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060563.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101204600467": {
+        "channel": "101204600467",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600467.png",
+        "cache_id": "12846274",
+        "name": "9Gem",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101204600467/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101204600467.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600467.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101204600468": {
+        "channel": "101204600468",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600468.png",
+        "cache_id": "8968378",
+        "name": "9Go!",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101204600468/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101204600468.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600468.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101204600464": {
+        "channel": "101204600464",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600464.png",
+        "cache_id": "12846823",
+        "name": "9Life",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101204600464/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101204600464.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600464.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.3201026102E1": {
+        "channel": "3201026102E1",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.3201026102E1.png",
+        "cache_id": "8968462",
+        "name": "ABC",
+        "network": "ABC",
+        "stream_type": "Token",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.3201026102E1/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.3201026102E1.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.3201026102E1.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.abc2": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abc2.png",
+        "network": "ABC",
+        "name": "ABC Comedy",
+        "channel": "101002210222",
+        "stream_type": "Token",
+        "video": {
+            "width": 640,
+            "codec": "h264",
+            "height": 360
+        },
+        "audio": {
+            "channels": 2,
+            "sample_rate": 44100,
+            "codec": "aac"
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.abc2/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.abc2.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101002210222": {
+        "channel": "101002210222",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210222.png",
+        "cache_id": "16808041",
+        "name": "ABC KIDS",
+        "network": "ABC",
+        "stream_type": "Token",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101002210222/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101002210222.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101002210224": {
+        "channel": "101002210224",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",
+        "cache_id": "12847054",
+        "name": "ABC ME",
+        "network": "ABC",
+        "stream_type": "Token",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101002210224/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101002210224.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101002210220": {
+        "channel": "101002210220",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",
+        "cache_id": "12213426",
+        "name": "ABC NEWS",
+        "network": "ABC",
+        "stream_type": "Token",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101002210220/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101002210220.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101204600461": {
+        "channel": "101204600461",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204600461.png",
+        "cache_id": "12847112",
+        "name": "Channel 9",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101204600461/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101204600461.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101204600461.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101406070688": {
+        "channel": "101406070688",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406070688.png",
+        "cache_id": "13049841",
+        "name": "ELEVEN",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101406070688/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101406070688.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070688.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.320203000304": {
+        "channel": "320203000304",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",
+        "cache_id": "12847328",
+        "name": "Food Network",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.320203000304/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.320203000304.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.fox.sports.news": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",
+        "name": "Fox Sports News",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 1080,
+            "width": 1920
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.fox.sports.news/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.fox.sports.news.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.320203000305": {
+        "channel": "320203000305",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",
+        "cache_id": "8982340",
+        "name": "NITV",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.320203000305/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.320203000305.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101406070681": {
+        "channel": "101406070681",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406070681.png",
+        "cache_id": "8968203",
+        "name": "ONE",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101406070681/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101406070681.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070681.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101305020528": {
+        "channel": "101305020528",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",
+        "cache_id": "12848270",
+        "name": "RACING.COM",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101305020528/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101305020528.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.redbull.tv": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png",
+        "name": "Redbull TV",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.redbull.tv/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.redbull.tv.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.320203000301": {
+        "channel": "320203000301",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",
+        "cache_id": "12848353",
+        "name": "SBS",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.320203000301/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.320203000301.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.320203000302": {
+        "channel": "320203000302",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",
+        "cache_id": "12848847",
+        "name": "SBS VICELAND",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.320203000302/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.320203000302.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101305060560": {
+        "channel": "101305060560",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305060560.png",
+        "cache_id": "8968527",
+        "name": "Seven",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        },
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 48000,
+            "channels": 2
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101305060560/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101305060560.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101305060560.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101406070685": {
+        "channel": "101406070685",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406070685.png",
+        "cache_id": "8968171",
+        "name": "TEN",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "audio": {
+            "codec": "aac",
+            "sample_rate": 44100,
+            "channels": 2
+        },
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/au/Perth/tv.101406070685/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Perth/tv.101406070685.m3u8",
+        "headers": {
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "Referer": "%20",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "url": "http://iptv.matthuisman.nz/au/Perth/tv.101406070685.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    }
+}
